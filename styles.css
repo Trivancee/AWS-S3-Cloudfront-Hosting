@@ -1,29 +1,22 @@
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 10px;
 }
 
-.container {
-    width: 80%;
-    margin: auto;
-    overflow: hidden;
-    padding: 20px;
+.social-icons a {
+    font-size: 30px;
+    color: #333; /* Default color */
+    transition: color 0.3s ease-in-out, transform 0.2s ease-in-out;
 }
 
-header {
-    background: #2c3e50;
-    color: #ecf0f1;
-    text-align: center;
-    padding: 1rem;
+.social-icons a:hover {
+    transform: scale(1.2); /* Slight zoom effect */
 }
 
-section {
-    margin: 20px 0;
-    padding: 20px;
-    background: white;
-    border-radius: 5px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-}
+/* Custom Colors for Each Icon */
+.social-icons a:nth-child(1) { color: #0077b5; } /* LinkedIn Blue */
+.social-icons a:nth-child(2) { color: #181717; } /* GitHub Black */
+.social-icons a:nth-child(3) { color: #c71610; } /* Email Red */
+.social-icons a:nth-child(4) { color: #12100e; } /* Medium Black */
