@@ -27,9 +27,3 @@ section {
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
-
-/* Custom Colors for Each Icon */
-.social-icons a:nth-child(1) { color: #0077b5; } /* LinkedIn Blue */
-.social-icons a:nth-child(2) { color: #181717; } /* GitHub Black */
-.social-icons a:nth-child(3) { color: #c71610; } /* Email Red */
-.social-icons a:nth-child(4) { color: #12100e; } /* Medium Black */
