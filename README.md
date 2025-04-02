@@ -13,8 +13,7 @@ This guide details the process of securely hosting a static website on AWS witho
 
 ---
 ## 📐 Architecture Diagram
-![Architecture Diagram](images/Static Website Hosting.png)
-
+<img width="1276" alt="static-website-hosting" src="https://github.com/Trivancee/AWS-S3-Cloudfront-Hosting/issues/1#issue-2967440798" /> 
 ---
 ## 📂 Project Structure
 ```sh
@@ -76,4 +75,19 @@ S3-cloudfront/
 - Test the website via the CloudFront distribution URL.
 - Monitor and optimize performance using AWS CloudWatch.
 
-🎉 Congratulations! Your secure static website is now live and automatically updated with each deployment! 🚀
+---
+
+## 🎉 Congratulations! You have successfully:
+✅ Set up an S3 bucket for secure static website hosting.
+✅ Configured CloudFront for enhanced security and performance.
+✅ Implemented IAM-based authentication to control access.
+✅ Automated deployments using GitHub Actions.
+✅ Enabled automatic cache invalidation for seamless updates.
+
+By leveraging AWS S3 and CloudFront, this approach ensures a scalable, cost-effective, and secure way to host static websites. With automated deployments and access controls in place, your website remains efficient, up-to-date, and protected from unauthorized access.
+
+👩‍💻 Author
+
+Ogechi G. Egbodo
+
+Cloud and DevOps Engineer
