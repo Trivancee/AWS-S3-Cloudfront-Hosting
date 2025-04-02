@@ -14,7 +14,9 @@ This guide details the process of securely hosting a static website on AWS witho
 ---
 ## 📐 Architecture Diagram
 <img width="1276" alt="static-website-hosting" src="https://github.com/Trivancee/AWS-S3-Cloudfront-Hosting/issues/1#issue-2967440798" /> 
+
 ---
+
 ## 📂 Project Structure
 ```sh
 S3-cloudfront/
