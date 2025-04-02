@@ -80,11 +80,11 @@ S3-cloudfront/
 ---
 
 ## 🎉 Congratulations! You have successfully:
-✅ Set up an S3 bucket for secure static website hosting.
-✅ Configured CloudFront for enhanced security and performance.
-✅ Implemented IAM-based authentication to control access.
-✅ Automated deployments using GitHub Actions.
-✅ Enabled automatic cache invalidation for seamless updates.
+- ✅ Set up an S3 bucket for secure static website hosting.
+- ✅ Configured CloudFront for enhanced security and performance.
+- ✅ Implemented IAM-based authentication to control access.
+- ✅ Automated deployments using GitHub Actions.
+- ✅ Enabled automatic cache invalidation for seamless updates.
 
 By leveraging AWS S3 and CloudFront, this approach ensures a scalable, cost-effective, and secure way to host static websites. With automated deployments and access controls in place, your website remains efficient, up-to-date, and protected from unauthorized access.
 
